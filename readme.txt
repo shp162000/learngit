@@ -5,3 +5,4 @@ update 2016-06-17
 
 Git has a mutable index called stage.
 Git tracks changes of files.
+2016-6-20
